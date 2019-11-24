@@ -4,7 +4,7 @@
 
 ## Começando
 
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
+Esse foi um projeto para dar iniciativa ao meu portfólio.
 
 ### Pré-requisitos
 
