@@ -1,4 +1,4 @@
-[<img src=”calculadora.png”>]
+![<img src=”calculadora.png”>]
 
 # Calculadora
 
