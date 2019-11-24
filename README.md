@@ -1,4 +1,4 @@
-![<img src=””>]
+![<img src=”calculator-js-reactnative.png”>]
 
 # Calculadora
 
@@ -30,7 +30,8 @@ https://pt-br.reactjs.org/docs/create-a-new-react-app.html
 
 ## Construído com
 
-* [Html] () - A estrutura da web usada
+* [Html]
+* [CSS]
 * [React] (https://pt-br.reactjs.org/) - Framework 
 
 ## Contribuindo
@@ -52,4 +53,5 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 ## Agradecimentos
 
 * Queria agradecer ao curso (https://www.udemy.com/course/curso-web)
+* E queria agradecer ao Leonardo Moura Leitao
 
