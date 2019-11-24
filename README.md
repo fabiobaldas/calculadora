@@ -28,9 +28,9 @@ https://pt-br.reactjs.org/docs/create-a-new-react-app.html
 
 ## Construído com
 
-* [Html]
-* [CSS]
-* [React] (https://pt-br.reactjs.org/) - Framework 
+* Html
+* CSS
+* React (https://pt-br.reactjs.org/) - Framework 
 
 ## Contribuindo
 
