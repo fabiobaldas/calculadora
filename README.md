@@ -1,4 +1,4 @@
-![<img src=”calculator-js-reactnative.png”>]
+[<img src=”calculadora.png”>]
 
 # Calculadora
 
@@ -10,19 +10,19 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 
 ### Pré-requisitos
 
-vsCode
+* vsCode
 `` ``
-React
+* React
 
 ### Instalando
 
 Uma série de exemplos passo a passo que mostram como obter um ambiente de desenvolvimento em execução
 
-Instale o vsCode
+* Instale o vsCode
 `` ``
-Depois instale o React
+* Depois instale o React
 `` ``
-Logo após configure o React
+* Logo após configure o React
 
 https://pt-br.reactjs.org/docs/create-a-new-react-app.html
 
