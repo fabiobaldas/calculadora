@@ -1,8 +1,8 @@
-![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/calculadora.png)
+<img src="https://github.com/fabiobaldas/calculadoraReact/blob/master/calculadora.png?raw=true"/>
 
-# Calculadora
+# Projeto da Calculadora
 
-Uma calculadora identica a calculadora do ios.
+*Uma calculadora idêntica a calculadora do ios.
 
 ## Começando
 
