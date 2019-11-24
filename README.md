@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/calculadora.png)
+!(https://github.com/fabiobaldas/calculadoraReact/blob/master/calculadora.png?raw=true)
 
 # Calculadora
 
