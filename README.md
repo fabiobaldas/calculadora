@@ -1,5 +1,3 @@
-<img src="https://github.com/fabiobaldas/calculadoraReact/blob/master/calculadora.png?raw=true"/>
-
 # Projeto da Calculadora
 
 *Uma calculadora idêntica a calculadora do ios.
