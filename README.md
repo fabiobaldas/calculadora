@@ -1,6 +1,6 @@
 # Projeto da Calculadora
 
-*Uma calculadora idêntica a calculadora do ios.
+* Uma calculadora idêntica a calculadora do ios.
 
 ## Começando
 
