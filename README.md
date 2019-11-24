@@ -1,4 +1,4 @@
-![<img src=”calculadora.png”>]
+![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/calculadora.png)
 
 # Calculadora
 
