@@ -42,7 +42,7 @@ Usamos [SemVer] (http://semver.org/) para versionar. Para as versões disponíve
 
 ## Autores
 
-* ** Fabio Baldas ** - * Trabalho inicial * - (https://github.com/fabiobaldas)
+*  Fabio Baldas - (https://github.com/fabiobaldas)
 
 ## Licença
 
